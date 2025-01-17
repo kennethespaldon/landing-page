@@ -67,8 +67,7 @@ a,
 
 .sign-up-btn {
   background-color: #3882F6;
-  font-weight: 700;
-  font-size: 16px;
+  border: none;
 }
 
 .info-section {
@@ -126,8 +125,44 @@ a,
   margin-left: 600px;
 }
 
+.cta-section {
+  height: 350px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cta-wrapper {
+  background-color: #3882F6;
+  padding: 48px 132px;
+  border-radius: 12px;
+  display: flex;
+  width: max-content;
+  height: max-content;
+  gap: 164px;
+}
+
+.cta-main-text {
+  color: #FFF;
+  font-size: 24px;
+  font-weight: 900;
+  margin-bottom: 3px;
+}
+
+.cta-secondary-text {
+  color: #E5E7EB;
+}
+
+.cta-btn {
+  color: #FFF;
+  background-color: #3882F6;
+  border: 2px solid #FFF;
+  align-self: center;
+}
+
 .btn {
-  padding: 8px 32px;
-  border: none;
   border-radius: 8px;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 8px 32px;
 }
