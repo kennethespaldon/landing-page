@@ -108,6 +108,24 @@ a,
   margin-bottom: 8px;
 }
 
+.quote-section {
+  background-color: #E5E7EB;
+  color: #1F2937;
+  padding: 124px 342px 94px;
+}
+
+.quote {
+  font-size: 36px;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.author {
+  font-weight: 900;
+  font-size: 20px;
+  margin-left: 600px;
+}
+
 .btn {
   padding: 8px 32px;
   border: none;
