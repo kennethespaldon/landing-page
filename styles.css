@@ -160,6 +160,13 @@ a,
   align-self: center;
 }
 
+footer {
+  color: #E5E7EB;
+  background-color: #1F2937;
+  text-align: center;
+  padding: 36px 0;
+}
+
 .btn {
   border-radius: 8px;
   font-size: 16px;
